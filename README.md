@@ -1,2 +1,3 @@
-# sample-inonic
-ionic sample project
+# Sample Ionic
+
+Ionic sample project
