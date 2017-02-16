@@ -1,6 +1,9 @@
 {
   "name": "myapp",
   "version": "1.1.1",
+  "scripts": {
+    "start": "node server.js"
+  },
   "description": "myApp: An Ionic project",
   "dependencies": {
     "express": "^4.14.1",
