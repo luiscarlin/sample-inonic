@@ -1,6 +1,6 @@
 {
-  "name": "ionic-heroku",
-  "description": "Ionic Node.js Heroku app",
+  "name": "sample-ionic",
+  "description": "Sample Ionic app running on Heroku",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
