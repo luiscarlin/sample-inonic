@@ -1,33 +1,9 @@
 {
-  "name": "myapp",
-  "version": "1.1.1",
-  "scripts": {
-    "start": "gulp && node server.js"
-  },
-  "description": "myApp: An Ionic project",
+  "name": "ionic-heroku",
+  "description": "Ionic Node.js Heroku app",
+  "version": "0.0.1",
+  "private": true,
   "dependencies": {
-    "bower": "^1.3.3",
-    "express": "^4.14.1",
-    "gulp": "^3.5.6",
-    "gulp-concat": "^2.2.0",
-    "gulp-minify-css": "^0.3.0",
-    "gulp-rename": "^1.2.0",
-    "gulp-sass": "^2.0.4",
-    "gulp-util": "^2.2.14",
-    "shelljs": "^0.3.0"
-  },
-  "devDependencies": {
-    "bower": "^1.3.3",
-    "gulp-util": "^2.2.14",
-    "shelljs": "^0.3.0"
-  },
-  "cordovaPlugins": [
-    "cordova-plugin-statusbar",
-    "cordova-plugin-device",
-    "ionic-plugin-keyboard",
-    "cordova-plugin-whitelist",
-    "cordova-plugin-console",
-    "cordova-plugin-splashscreen"
-  ],
-  "cordovaPlatforms": []
+    "express": "~4.4.3"
+  }
 }
